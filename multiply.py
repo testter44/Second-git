@@ -6,3 +6,5 @@ def multiply(a, b):
     # return mul
 
 multiply(3, 6)
+
+print("666666666666666666666")
