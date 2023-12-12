@@ -6,3 +6,9 @@ def multiply(a, b, c):
     # return mul
 
 multiply(3, 6, 8)
+
+
+def hello():
+    print("hello")
+
+hello()
